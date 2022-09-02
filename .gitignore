@@ -1,0 +1,7 @@
+data/*
+pickles/*
+results/*
+.idea/*
+.ipynb_checkpoints/*
+__pycache__/*
+anomalydetection/__pycache__/*
